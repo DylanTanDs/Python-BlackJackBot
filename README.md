@@ -7,3 +7,5 @@
 
 This is the code for the Telegram Bot with which user can play the game Black Jack. 
 You can find the hosted version of it here: https://telegram.me/BlackJackBot
+
+At the moment, the game can only Hit or Stand. I would include in the option to split when player receives a two of the same cards. To further improve on the user's experience, a credit system would be included, allowing players to place virtual bets.
